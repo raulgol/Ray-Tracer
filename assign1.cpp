@@ -1,7 +1,6 @@
 /*
   CSCI 480 Computer Graphics
   Assignment 1: Height Fields
-  C++ starter code
 */
 
 #include <stdlib.h>
@@ -135,9 +134,6 @@ unsigned char getHeight(int j, int i) {
 
 void display() {
   /* draw 1x1 cube about origin */
-  /* replace this code with your height field implementation */
-  /* you may also want to precede it with your 
-     rotation/translation/scaling */
     
     glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
     glLoadIdentity();
@@ -210,8 +206,6 @@ void menufunc(int value)
 
 void doIdle()
 {
-  /* do some stuff... */
-
   /* make the screen update */
   glutPostRedisplay();
 }
