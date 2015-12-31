@@ -2,7 +2,7 @@
 <content>
 # Ray Tracer
 ## Demo
-Demo: 
+Demo: http://www.duoduoyu.net/ (At the bottom of this site)
 <br />
 ## Introduction
 Ray Tracer with Phong shading and good anti-aliasing. 
